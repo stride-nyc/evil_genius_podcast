@@ -8,6 +8,8 @@ excerpt: "We revisit Tic Tac Toe"
 
 ## Tic Tac Toe: Part 2
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6746569/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 In this episode we talk about
 * What is evil about this code?
 * Variables: using variables to store data, renaming variables
