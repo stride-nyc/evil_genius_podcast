@@ -8,6 +8,8 @@ excerpt: "We go line by line with Martin Fowler"
 
 # Video Service Refactor: Part 1
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/6846815/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 - Introducing… a new problem! We talk about how Emmanuel ran across this problem. [**Martin Fowler's blog post**](https://martinfowler.com/articles/refactoring-external-service.html)
 - We talk about the problem itself: What is an external service?
 - We dive into the code
