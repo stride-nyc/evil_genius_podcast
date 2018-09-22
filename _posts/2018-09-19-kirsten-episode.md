@@ -8,6 +8,8 @@ excerpt: "Kirsten and Meredith wade into the wild of Open Source"
 
 # Special Guest Episode
 
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/7060562/height/90/theme/custom/autoplay/no/autonext/no/thumbnail/yes/preload/no/no_addthis/no/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
 ## Talking Points
 
 - Joined by extra special guest Kirsten Nordine
