@@ -16,7 +16,7 @@ excerpt: "We go into the Refactoring book and try our hand at a first example."
 
 ## Commits
 
-- [**Add test cases**](https://github.com/stride-nyc/evil_genius_podcast_exercises/commit/7a45e9baff1e3e67b6ba28d87fc62600389a1011)  [****](https://github.com/stride-nyc/evil_genius_podcast_exercises/commit/7a45e9baff1e3e67b6ba28d87fc62600389a1011)[**for statement**](https://github.com/stride-nyc/evil_genius_podcast_exercises/commit/7a45e9baff1e3e67b6ba28d87fc62600389a1011)
+- [**Add test cases for statement method**](https://github.com/stride-nyc/evil_genius_podcast_exercises/commit/7a45e9baff1e3e67b6ba28d87fc62600389a1011)
   - What did you add that wasn’t in the book?
   - Curious. Why did you choose minitest over rspec?
   - I'm noticing some patterns.
